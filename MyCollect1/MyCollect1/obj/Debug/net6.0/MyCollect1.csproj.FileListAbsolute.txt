@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\cs-1.2\MyCollect1\MyCollect1\bin\Debug\net6.0\MyCollect1.exe
+C:\Users\Admin\source\repos\cs-1.2\MyCollect1\MyCollect1\bin\Debug\net6.0\MyCollect1.deps.json
+C:\Users\Admin\source\repos\cs-1.2\MyCollect1\MyCollect1\bin\Debug\net6.0\MyCollect1.runtimeconfig.json
+C:\Users\Admin\source\repos\cs-1.2\MyCollect1\MyCollect1\bin\Debug\net6.0\MyCollect1.dll
+C:\Users\Admin\source\repos\cs-1.2\MyCollect1\MyCollect1\bin\Debug\net6.0\MyCollect1.pdb
+C:\Users\Admin\source\repos\cs-1.2\MyCollect1\MyCollect1\obj\Debug\net6.0\MyCollect1.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\cs-1.2\MyCollect1\MyCollect1\obj\Debug\net6.0\MyCollect1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\cs-1.2\MyCollect1\MyCollect1\obj\Debug\net6.0\MyCollect1.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\cs-1.2\MyCollect1\MyCollect1\obj\Debug\net6.0\MyCollect1.AssemblyInfo.cs
+C:\Users\Admin\source\repos\cs-1.2\MyCollect1\MyCollect1\obj\Debug\net6.0\MyCollect1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\cs-1.2\MyCollect1\MyCollect1\obj\Debug\net6.0\MyCollect1.dll
+C:\Users\Admin\source\repos\cs-1.2\MyCollect1\MyCollect1\obj\Debug\net6.0\refint\MyCollect1.dll
+C:\Users\Admin\source\repos\cs-1.2\MyCollect1\MyCollect1\obj\Debug\net6.0\MyCollect1.pdb
+C:\Users\Admin\source\repos\cs-1.2\MyCollect1\MyCollect1\obj\Debug\net6.0\MyCollect1.genruntimeconfig.cache
+C:\Users\Admin\source\repos\cs-1.2\MyCollect1\MyCollect1\obj\Debug\net6.0\ref\MyCollect1.dll
