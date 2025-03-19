@@ -28,5 +28,11 @@ PrintCollections(aList1);
 List<int> dig1 = new List<int> { 0, 1, 2, 3, 4, 5 }; // ПРИМЕР - при использовании инициализатора коллекции вызовы метода Add для заполнения коллекции не нужны, т.к. эти вызовы добавляет компилятор
 
 List<int> collectInt = new List<int> { 10, 20, 30, 40, 50 };
+
 foreach (int i in collectInt)
+    Console.WriteLine(i);
+
+var collectVar = from i in collectInt
+                 select i;
+foreach (int i in collectVar)
     Console.WriteLine(i);
